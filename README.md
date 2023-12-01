@@ -4,7 +4,7 @@
 
 [Join our community Discord: AI Stack Devs](https://discord.gg/PQUmTBTGmT)
 
-<img width="1454" alt="Screen Shot 2023-08-14 at 10 01 00 AM" src="https://github.com/a16z-infra/ai-town/assets/3489963/a4c91f17-23ed-47ec-8c4e-9f9a8505057d">
+<img width="1454" alt="Screen Shot 2023-08-14 at 10 01 00 AM" src="https://github.com/a16z-infra/assets/3489963/a4c91f17-23ed-47ec-8c4e-9f9a8505057d">
 
 AI Town is a virtual town where AI characters live, chat and socialize.
 
